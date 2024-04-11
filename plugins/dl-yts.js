@@ -1,4 +1,4 @@
-import axios from 'axios';
+/*import axios from 'axios';
 
 let handler = async (m, { conn, text }) => {
   if (!text) throw '✳️ What do you want me to search for on YouTube?';
@@ -35,3 +35,4 @@ handler.tags = ['downloader'];
 handler.command = ['ytsearch', 'yts'];
 
 export default handler;
+*/
